@@ -116,6 +116,16 @@ Primary use:
   text-transform: uppercase;
 }
 
+.l1-txt3 {
+  font-family: Poppins-Thin;
+  font-size: 45px;
+  line-height: 1.1;
+  /* color: rgba(255,255,255,0.5); */
+  color: #fff;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+}
+
 
 
 /*==================================================================
@@ -391,6 +401,9 @@ Primary use:
   /*---------------------------------------------*/
   .respon1 {
     font-size: 45px;
+  }
+  .respon2 {
+    font-size: 30px;
   }
   
 }
